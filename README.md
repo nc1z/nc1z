@@ -3,7 +3,7 @@
 ```
 Hello World 👋
 ```
-Welcome to my Github. I'm Neil & I'm a Full-Stack Developer based in Singapore.
+Welcome to my Github. I'm Neil, a Full-Stack Developer based in Singapore.
 
 <ins>**I enjoy coding with:**</ins> 
 
