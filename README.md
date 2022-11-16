@@ -41,7 +41,7 @@ Welcome to my Github. I'm Neil, a Full-Stack Developer based in Singapore.
 ---
  
 
-💬 I'm currently looking for opportunities as a full stack developer, feel free to reach out to me at <em>nc1zdev@gmail.com</em>
+💬 Feel free to reach out to me at <em>nc1zdev@gmail.com</em>
 
 <sub><sup>Profile picture inspiration from <a href="https://github.com/boringdesigners/boring-avatars">boring-avatars</a> / Banner credits: <a href="https://www.vecteezy.com/free-vector/dark">Dark Vectors by Vecteezy</a> & Banner Generator by <a href="https://liyasthomas.github.io/banner/">liyasthomas</a></sup></sub>
 
