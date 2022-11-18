@@ -3,7 +3,7 @@
 ```
 Hello World 👋
 ```
-Welcome to my Github. I'm Neil, a Full-Stack Developer based in Singapore.
+Welcome to my Github. I'm Neil, a Software Engineer based in Singapore.
 
 <ins>**I enjoy coding with:**</ins> 
 
@@ -22,6 +22,12 @@ Welcome to my Github. I'm Neil, a Full-Stack Developer based in Singapore.
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+
+<ins>**Currently learning:**</ins> 
+![Java Badge](https://img.shields.io/badge/Java-FFFFF7?logo=java&logoColor=000&style=for-the-badge)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=for-the-badge)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
 ---
 
