@@ -39,6 +39,11 @@ Welcome to my Github. I'm Neil, a Software Engineer based in Singapore.
   - Languages: TypeScript, HTML5, CSS3
   - Component Libraries: Styled-Components, Bootstrap
   - Deployed with: Heroku (Server), Netlify (Frontend)
+
+- CRUD App (Server Backend)
+  - Tech Stack: Spring Boot, Docker, PostgreSQL
+  - Languages: Java, SQL
+  - Deployed with: (Yet to deploy)
     
 - Chat App (Wavetext)
   - Tech Stack: Firebase, ReactJS, NodeJS
