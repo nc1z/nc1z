@@ -52,7 +52,7 @@ Technologies:
   - Deployed with: Heroku (Server), Netlify (Frontend)
 
 - CRUD App (Server Backend)
-  - Tech Stack: Spring Boot, Docker, PostgreSQL
+  - Tech Stack: Spring Boot, Docker, PostgreSQL, Apache Maven
   - Languages: Java, SQL
   - Deployed with: (Yet to deploy)
     
