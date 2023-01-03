@@ -51,26 +51,6 @@ UI Libraries/languages:
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Apache Maven Badge](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apachemaven&logoColor=fff&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-
----
-
-**⚡ Here are some of my recent projects:**
-- Investment Portfolio Tracker Web App (tradewise)
-  - Tech Stack: MongoDB, ExpressJS, ReactJS, NodeJS
-  - Languages: TypeScript, HTML5, CSS3
-  - Component Libraries: Styled-Components, Bootstrap
-  - Deployed with: Heroku (Server), Netlify (Frontend)
-
-- CRUD App (Server Backend)
-  - Tech Stack: Spring Boot, Docker, PostgreSQL, Apache Maven
-  - Languages: Java, SQL
-  - Deployed with: (Yet to deploy)
-    
-- Chat App (Wavetext)
-  - Tech Stack: Firebase, ReactJS, NodeJS
-  - Languages: JavaScript, HTML5, CSS3
-  - Component Libraries: TailwindCSS
-  - Deployed with: Firebase
     
 ---
  
