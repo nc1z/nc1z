@@ -1,8 +1,5 @@
-<img src="https://user-images.githubusercontent.com/111836326/211264560-1eea468c-4ce0-4598-b367-14c26e4147a0.png" width="900" height="200"/>
+<img src="https://user-images.githubusercontent.com/111836326/211264560-1eea468c-4ce0-4598-b367-14c26e4147a0.png" width="300" height="180"/> ![monkey](https://user-images.githubusercontent.com/111836326/211265832-a9325782-6f53-4bb8-b755-da62f913bfdf.gif)
 
-```
-Hello World 👋
-```
 Welcome to my Github. I'm Neil, a Software Engineer based in Singapore.
 
 #### I enjoy coding with:
