@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/111836326/211264560-1eea468c-4ce0-4598-b367-14c26e4147a0.png" width="300" height="180"/> ![monkey](https://user-images.githubusercontent.com/111836326/211265832-a9325782-6f53-4bb8-b755-da62f913bfdf.gif)
+<img src="https://user-images.githubusercontent.com/111836326/211268721-32046e0d-3c48-4bbd-b6f0-c7352499a157.png" width="300" height="180"/> ![monkey](https://user-images.githubusercontent.com/111836326/211265832-a9325782-6f53-4bb8-b755-da62f913bfdf.gif)
 
-Welcome to my Github. I'm Neil, a Software Engineer based in Singapore.
+Hey there! Welcome to my Github. I'm Neil, a Software Engineer based in Singapore.
 
 #### I enjoy coding with:
 
