@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/111836326/211268721-32046e0d-3c48-4bbd-b6f0-c7352499a157.png" width="300" height="180"/> ![monkey](https://user-images.githubusercontent.com/111836326/211265832-a9325782-6f53-4bb8-b755-da62f913bfdf.gif)
 
-Hey there! Welcome to my Github. I'm Neil, a Software Engineer based in Singapore.
+Hey there! I'm Neil, a Software Engineer based in Singapore.
 
 #### I enjoy coding with:
 
