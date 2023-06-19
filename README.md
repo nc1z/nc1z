@@ -40,6 +40,11 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Personal Projects
 
+#### :space_invader: <a href="https://github.com/nc1z/openai-discord-bot" target="_blank">OpenAI Discord Bot</a>
+
+- NodeJs Discord bot integrated with GPT and DALL-E
+
+  - Language(s): Typescript
 
 ---
 
