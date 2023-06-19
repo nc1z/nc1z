@@ -10,7 +10,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Work Experience
 
-#### New Membership Platform (Apr 2023 - Jun 2023)
+#### :credit_card: New Membership Platform (Apr 2023 - Jun 2023)
 
 - Developed key features in a Progressive Web App (PWA) for an NGO / Social Enterprise. Responsible for the payment integration and membership sign up work streams.
 
@@ -22,7 +22,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
   - Testing: Jest + Selenium + Cucumber
 
-#### Design Tool POC (Mar 2023 - Apr 2023)
+#### :art: Design Tool POC (Mar 2023 - Apr 2023)
 
 - Built a robust React front-end POC from scratch for a Fortune 500 MNC.
 
@@ -30,7 +30,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
   - Framework: React
 
-#### Corporate Site (Feb 2023 - Mar 2023)
+#### :earth_americas: Corporate Site (Feb 2023 - Mar 2023)
 
 - Created custom web pages using Webflow, incorporating jQuery for custom features such as form validation/submission.
 
