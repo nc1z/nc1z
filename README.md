@@ -12,7 +12,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 #### :credit_card: New Membership Platform (Apr 2023 - Jun 2023)
 
-- Developed key features in a Progressive Web App (PWA) for an NGO / Social Enterprise. Responsible for the payment integration and membership sign up work streams.
+- Developed key features in a Progressive Web App (PWA) for an NGO / Social Enterprise. Supported payment integration and membership sign up work streams.
 
   - Language(s): Typescript
 
