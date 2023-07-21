@@ -10,6 +10,16 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Work Experience
 
+#### :sailboat: Backend Migration / Revamp (Jul 2023 - present)
+
+- Language(s): Typescript, Javascript with flow
+
+- FE: React
+
+- BE: Strapi CMS (NodeJs)
+
+- Testing: Jest, Supertest
+
 #### :credit_card: New Membership Platform (Apr 2023 - Jun 2023)
 
 - Developed key features in a Progressive Web App (PWA) for an NGO / Social Enterprise. Supported payment integration and membership sign up work streams.
