@@ -12,13 +12,15 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 #### :sailboat: Backend Migration / Revamp (Jul 2023 - present)
 
-- Language(s): Typescript, Javascript with flow
+- Supporting the migration of backend from PHP to Strapi CMS (rewrite) for a large MNC. Also, implementation of new features for the frontend and integration with new backend.
+  
+  - Language(s): Typescript, Javascript with flow
 
-- FE: React
+  - FE: React
 
-- BE: Strapi CMS (NodeJs)
+  - BE: Strapi CMS (NodeJs)
 
-- Testing: Jest, Supertest
+  - Testing: Jest, Supertest
 
 #### :credit_card: New Membership Platform (Apr 2023 - Jun 2023)
 
