@@ -10,7 +10,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Work Experience
 
-#### :sailboat: Backend Migration / Revamp (Jul 2023 - present)
+#### :sailboat: Backend Migration / Revamp (present)
 
 - Supporting the migration of backend from PHP to Strapi CMS (rewrite) for a large MNC. Also, implementation of new features for the frontend and integration with new backend.
   
@@ -22,7 +22,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
   - Testing: Jest, Supertest
 
-#### :credit_card: New Membership Platform (Apr 2023 - Jun 2023)
+#### :credit_card: New Membership Platform
 
 - Developed key features in a Progressive Web App (PWA) for an NGO / Social Enterprise. Supported payment integration and membership sign up work streams.
 
@@ -34,7 +34,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
   - Testing: Jest + Selenium + Cucumber
 
-#### :art: Design Tool POC (Mar 2023 - Apr 2023)
+#### :art: Design Tool POC
 
 - Built a robust React front-end POC from scratch for a Fortune 500 MNC.
 
@@ -42,7 +42,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
   - Framework: React
 
-#### :earth_americas: Corporate Site (Feb 2023 - Mar 2023)
+#### :earth_americas: Corporate Site
 
 - Created custom web pages using Webflow, incorporating jQuery for custom features such as form validation/submission.
 
