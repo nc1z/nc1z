@@ -10,13 +10,13 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Work Experience
 
-#### :sailboat: Backend Migration / Revamp (present)
+#### :sailboat: Micro Frontends and Backend Migration (present)
 
-- Supporting the migration of backend from PHP to Strapi CMS (rewrite) for a large MNC. Also, implementation of new features for the frontend and integration with new backend.
+- Building an internal admin dashboard and external facing PWA for an MNC. Supporting the integration and migration of backend to Strapi CMS.
   
-  - Language(s): Typescript, Javascript with flow
+  - Language(s): Typescript
 
-  - FE: React
+  - FE: TurboRepo, React PWA
 
   - BE: Strapi CMS (NodeJs)
 
