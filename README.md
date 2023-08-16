@@ -40,6 +40,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 #### :sparkles: [Random Username Generator](https://getrandomuser.com/)
 - NextJs web application deployed on Vercel
+- [Give the API a try!](https://rapidapi.com/ImpossibleMenu/api/random-username-generator)
 
 #### :fire: <a href="https://github.com/nc1z/react-pwa-starter" target="_blank">React Firebase PWA Starter (CRA template)</a>
 - React PWA starter with a seamless native-like mobile experience
