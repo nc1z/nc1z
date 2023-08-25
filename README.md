@@ -14,7 +14,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 - Building an internal admin dashboard and external facing PWA for an MNC. Supporting the integration and migration of backend to Strapi CMS.
   
-  - Typescript, TurboRepo, React PWA, Strapi headless CMS (NodeJs), Jest
+  - Typescript, TurboRepo, React, Okta, Strapi headless CMS (NodeJs), Jest
 
 #### :credit_card: New Membership Platform
 
