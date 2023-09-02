@@ -10,7 +10,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Career highlights (projects)
 
-#### :sailboat: Micro Frontends and Backend Migration (present)
+#### :sailboat: Travel platform frontend and Backend Migration from partial monolith (present)
 
 - Building an internal admin dashboard and external facing PWA for an MNC. Supporting the integration and migration of backend to Strapi CMS.
   
