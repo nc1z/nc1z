@@ -10,27 +10,27 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Career highlights (projects)
 
-#### :sailboat: Travel platform frontend and Backend Migration from partial monolith (present)
+#### :sailboat: Global Travel Platform (present)
 
-- Building an internal admin dashboard and external facing PWA for an MNC. Supporting the integration and migration of backend to Strapi CMS.
+- Creating both an internal admin dashboard and an external mobile-responsive web app from scratch for a multinational corporation. Supporting the migration of a partial monolith to a domain-driven backend powered by Strapi NodeJs clusters.
   
-  - Typescript, TurboRepo, React, Okta, Strapi headless CMS (NodeJs), Jest
+  - Typescript, TurboRepo, React, Strapi headless CMS (NodeJs), Okta, Material UI, Formik, Jest
 
-#### :credit_card: New Membership Platform
+#### :credit_card: New Youth Social Membership Platform
 
-- Developed key features in a Progressive Web App (PWA) for an NGO / Social Enterprise. Supported payment integration and membership sign up work streams.
+- Developed critical features in a React PWA for a social enterprise, while streamlining payment integration and membership sign-ups through Strapi headless CMS (NodeJs).
 
   - Typescript, React, Strapi CMS (NodeJs), Jest / Selenium / Cucumber
  
 ### Other work experience
 
-#### :art: Design Tool POC
+#### :art: Design Application Proof of Concept
 
-- Built a robust React front-end POC from scratch for a Fortune 500 MNC.
+- Developed a proof-of-concept React frontend application for a Fortune 500 multinational corporation specializing in card payments.
 
-#### :earth_americas: Corporate Site
+#### :earth_americas: Carbon Credit Marketplace Corporate Site
 
-- Created custom web pages using Webflow, incorporating jQuery for custom features such as form validation/submission.
+- Built custom web pages using Webflow, integrated forms with Salesforce Pardot, and crafted custom functionalities using jQuery.
 
 ### Notable Open Source Contributions
 
@@ -40,7 +40,6 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 #### :sparkles: [Random Username Generator](https://getrandomuser.com/)
 - NextJs web application deployed on Vercel
-- [Give the API a try!](https://rapidapi.com/ImpossibleMenu/api/random-username-generator)
 
 #### :fire: <a href="https://github.com/nc1z/react-pwa-starter" target="_blank">React Firebase PWA Starter (CRA template)</a>
 - React PWA starter with a seamless native-like mobile experience
