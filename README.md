@@ -41,20 +41,22 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Personal Projects
 
+#### :scroll: [BTC Trade Stream Aggregator](https://github.com/nc1z/trade-stream-aggregator)
+
+- NodeJs live trade feed aggregator server producing BTC time and sales data from major exchanges like Binance, Bybit, BitMEX via a unified WebSocket API
+
+#### :oncoming_taxi: [DataGovSg TS Wrapper](https://github.com/nc1z/datagovsg-ts)
+- Typescript wrapper for Data.gov.sg transport apis
+
 #### :sparkles: [Random Username Generator](https://getrandomuser.com/)
 - NextJs web application deployed on Vercel
 
-#### :fire: <a href="https://github.com/nc1z/react-pwa-starter" target="_blank">React Firebase PWA Starter (CRA template)</a>
+#### :fire: [React Firebase PWA Starter (CRA template)](https://github.com/nc1z/react-pwa-starter)
 - React PWA starter with a seamless native-like mobile experience
   
   ```bash
   npx create-react-app my-app --template cra-template-firebase-pwa-starter
   ```
-
-#### :space_invader: <a href="https://github.com/nc1z/openai-discord-bot" target="_blank">OpenAI Discord Bot</a>
-
-- NodeJs Discord bot integrated with GPT and DALL-E
-
 ---
 
 💬 Feel free to reach out to me at <em>nc1zdev@gmail.com</em>
