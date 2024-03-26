@@ -34,6 +34,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 ### Notable Open Source Contributions
 
 - [[#1801]](https://github.com/strapi/documentation/pull/1801) [Strapi Docs: Fix dark mode code element readability](https://github.com/strapi/documentation/releases/tag/v4.12.1)
+- [[#2062]](https://github.com/strapi/documentation/pull/2062) [Strapi Docs: Fix table overflow behavior on mobile]()
 
 ### Personal Projects
 
