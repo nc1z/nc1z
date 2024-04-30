@@ -11,9 +11,9 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 #### :sailboat: Global Travel Commissions Platform (present)
 
-- Creating both an internal admin dashboard and an external mobile-responsive web app from scratch for a multinational corporation. Supporting the migration of a partial monolith to a domain-driven backend powered by Strapi NodeJs clusters.
+- Creating both an internal admin dashboard and an external mobile-responsive web app from scratch for a multinational corporation. Supporting the migration of a partial monolith to a domain-driven backend powered by Strapi/NestJs.
   
-  - Typescript, TurboRepo, React, Strapi headless CMS (NodeJs), Okta, Material UI, Formik, Jest
+  - Typescript, React, Strapi headless CMS (NodeJs), NestJs, Okta, Material UI, Formik, Jest, TurboRepo
 
 #### :credit_card: New Youth Social Membership Platform
 
@@ -33,6 +33,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Notable Open Source Contributions
 
+- [[#2085]](https://github.com/strapi/documentation/pull/2085) [Strapi Docs: Document using strapi instance for migrations]()
 - [[#1801]](https://github.com/strapi/documentation/pull/1801) [Strapi Docs: Fix dark mode code element readability](https://github.com/strapi/documentation/releases/tag/v4.12.1)
 - [[#2062]](https://github.com/strapi/documentation/pull/2062) [Strapi Docs: Fix table overflow behavior on mobile](https://github.com/strapi/documentation/releases/tag/v4.21.1)
 
@@ -42,8 +43,8 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 - NodeJs live trade feed aggregator server producing BTC time and sales data from major exchanges like Binance, Bybit, BitMEX via a unified WebSocket API
 
-#### :oncoming_taxi: [DataGovSg TS Wrapper](https://github.com/nc1z/datagovsg-ts)
-- Typescript wrapper for Data.gov.sg transport apis
+#### :credit_card: [Hono Backend template with Stripe Integration](https://github.com/nc1z/stripe-integration-basics)
+- Stripe integration, middlewares and error handling, tests etc.
 
 #### :sparkles: [Random Username Generator](https://getrandomuser.com/)
 - NextJs web application deployed on Vercel
