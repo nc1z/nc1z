@@ -35,7 +35,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 #### :credit_card: [Hono Backend template with Stripe Integration](https://github.com/nc1z/stripe-integration-basics)
 - Stripe integration, middlewares and error handling, tests etc.
 
-#### :sparkles: [Random Username Generator](https://random-user-7lz4hzdmp-nc1z.vercel.app/)
+#### :sparkles: [Random Username Generator](https://getrandomuser.vercel.app/)
 - NextJs web application deployed on Vercel
 
 ---
