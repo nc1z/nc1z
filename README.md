@@ -9,13 +9,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Career highlights
 
-#### :sailboat: Global Travel Commissions Platform (present)
-
-- Creating both an internal admin dashboard and an external mobile-responsive web app from scratch for a multinational corporation. Supporting the migration of a partial monolith to a domain-driven backend powered by Strapi/NestJs.
-  
-  - Typescript, React, Strapi CMS (NodeJs), NestJs, TurboRepo, Okta, Material UI, Formik, Jest ... 
- 
-### Other work experience
+- :sailboat: Global Travel Commissions Platform (present) - Migration of a partial monolith to a domain-driven backend powered by Strapi/NestJs/Alicloud
 - :credit_card: New Youth Social Membership Platform - React PWA and Strapi CMS (NodeJs)
 - :art: Design Application React Proof of Concept for a card payments fortune 500 MNC
 - :earth_americas: Carbon Credit Marketplace Corporate Site - jQuery, Webflow, Salesforce Pardot
@@ -29,8 +23,10 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 ### Personal Projects
 
 #### :scroll: [BTC Trade Stream Aggregator](https://github.com/nc1z/trade-stream-aggregator)
-
 - NodeJs live trade feed aggregator server producing BTC time and sales data from major exchanges like Binance, Bybit, BitMEX via a unified WebSocket API
+
+#### :dollar: [Settlements Enrichment Service](https://github.com/nc1z/settlements-enrichment-service)
+- Java Sprintboot REST Server that receives trade requests, enriches with SSI reference data, produces market settlement messages.
 
 #### :credit_card: [Hono Backend template with Stripe Integration](https://github.com/nc1z/stripe-integration-basics)
 - Stripe integration, middlewares and error handling, tests etc.
