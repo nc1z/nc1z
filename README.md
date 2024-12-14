@@ -9,7 +9,8 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Career highlights
 
-- :sailboat: Global Travel Commissions Platform (present) - Migration of a partial monolith to a domain-driven backend powered by Strapi/NestJs/Alicloud
+- :chart_with_upwards_trend: Task Management System (Present) - API service, state machines, events ... NodeJs
+- :sailboat: Global Travel Commissions Platform - Migration of a partial monolith to a domain-driven, event-driven backend powered by Strapi/NestJs/Alicloud
 - :credit_card: New Youth Social Membership Platform - React PWA and Strapi CMS (NodeJs)
 - :art: Design Application React Proof of Concept for a card payments fortune 500 MNC
 - :earth_americas: Carbon Credit Marketplace Corporate Site - jQuery, Webflow, Salesforce Pardot
@@ -20,7 +21,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 - [[#1801]](https://github.com/strapi/documentation/pull/1801) [Strapi Docs: Fix dark mode code element readability](https://github.com/strapi/documentation/releases/tag/v4.12.1)
 - [[#2062]](https://github.com/strapi/documentation/pull/2062) [Strapi Docs: Fix table overflow behavior on mobile](https://github.com/strapi/documentation/releases/tag/v4.21.1)
 
-### Personal Projects
+### Random Personal Projects
 
 #### :scroll: [BTC Trade Stream Aggregator](https://github.com/nc1z/trade-stream-aggregator)
 - NodeJs live trade feed aggregator server producing BTC time and sales data from major exchanges like Binance, Bybit, BitMEX via a unified WebSocket API
