@@ -27,7 +27,7 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 - NodeJs live trade feed aggregator server producing BTC time and sales data from major exchanges like Binance, Bybit, BitMEX via a unified WebSocket API
 
 #### :dollar: [Settlements Enrichment Service](https://github.com/nc1z/settlements-enrichment-service)
-- Java Sprintboot REST Server that receives trade requests, enriches with SSI reference data, produces market settlement messages.
+- Java Springboot REST Server that receives trade requests, enriches with SSI reference data, produces market settlement messages.
 
 #### :credit_card: [Hono Backend template with Stripe Integration](https://github.com/nc1z/stripe-integration-basics)
 - Stripe integration, middlewares and error handling, tests etc.
