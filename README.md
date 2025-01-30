@@ -17,11 +17,23 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Notable Open Source Contributions
 
+#### Features
+- [[#29348]](https://github.com/nrwl/nx/pull/29348)
+
+#### Documentation
 - [[#2085]](https://github.com/strapi/documentation/pull/2085) [Strapi Docs: Document using strapi instance for migrations](https://github.com/strapi/documentation/releases/tag/v4.24.1)
 - [[#1801]](https://github.com/strapi/documentation/pull/1801) [Strapi Docs: Fix dark mode code element readability](https://github.com/strapi/documentation/releases/tag/v4.12.1)
 - [[#2062]](https://github.com/strapi/documentation/pull/2062) [Strapi Docs: Fix table overflow behavior on mobile](https://github.com/strapi/documentation/releases/tag/v4.21.1)
+- [[#454]](https://github.com/statelyai/docs/pull/454#issuecomment-2561652777)
+- [[#455]](https://github.com/statelyai/docs/pull/455#event-15763103250)
 
 ### Random Personal Projects
+
+#### :ninja: Interactive world map
+- React Simple Maps x Cloudflare Serverless x Supabase
+
+#### :ninja: Lifestyle Tracker AI application
+- Cloudflare Serverless + Chatbots
 
 #### :scroll: [BTC Trade Stream Aggregator](https://github.com/nc1z/trade-stream-aggregator)
 - NodeJs live trade feed aggregator server producing BTC time and sales data from major exchanges like Binance, Bybit, BitMEX via a unified WebSocket API
