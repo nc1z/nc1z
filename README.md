@@ -18,14 +18,14 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 ### Notable Open Source Contributions
 
 #### Features
-- [[#29348]](https://github.com/nrwl/nx/pull/29348) [nx-monorepo: feat(core): add prefixColor property to @nx:run-commands]
+- [[#29348]](https://github.com/nrwl/nx/pull/29348) [nx-monorepo: feat(core): add prefixColor property to @nx:run-commands](https://github.com/nrwl/nx/pull/29348)
 
 #### Documentation
 - [[#2085]](https://github.com/strapi/documentation/pull/2085) [Strapi Docs: Document using strapi instance for migrations](https://github.com/strapi/documentation/releases/tag/v4.24.1)
 - [[#1801]](https://github.com/strapi/documentation/pull/1801) [Strapi Docs: Fix dark mode code element readability](https://github.com/strapi/documentation/releases/tag/v4.12.1)
 - [[#2062]](https://github.com/strapi/documentation/pull/2062) [Strapi Docs: Fix table overflow behavior on mobile](https://github.com/strapi/documentation/releases/tag/v4.21.1)
-- [[#454]](https://github.com/statelyai/docs/pull/454#issuecomment-2561652777) [XState Docs: Fix typo in actors cheatsheet]
-- [[#455]](https://github.com/statelyai/docs/pull/455#event-15763103250) [XState Docs: Fix typo in actors invoke]
+- [[#454]](https://github.com/statelyai/docs/pull/454#issuecomment-2561652777) [XState Docs: Fix typo in actors cheatsheet](https://github.com/statelyai/docs/pull/454#issuecomment-2561652777)
+- [[#455]](https://github.com/statelyai/docs/pull/455#event-15763103250) [XState Docs: Fix typo in actors invoke](https://github.com/statelyai/docs/pull/455#event-15763103250)
 
 ### Personal Projects
 
