@@ -29,23 +29,26 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Personal Projects
 
-#### :ninja: Interactive world map
-- React Simple Maps x Cloudflare Serverless x Supabase
+#### :earth_asia: Interactive world map
+- [Private, Built for public usage] React Simple Maps x Cloudflare Serverless x Supabase
 
-#### :ninja: Lifestyle Tracker AI application
-- Cloudflare Serverless + Chatbots
+#### :dollar: AI Lifestyle Tracker application
+- [Private, Built for public usage] Cloudflare Serverless + Chatbots
+
+#### :game_die: Card Gacha application
+- [Private, Built for public usage] Non-commercial web app for a niched community (10~50 users). Probability and credit systems - React x Cloudflare Serverless x Supabase.
 
 #### :scroll: [BTC Trade Stream Aggregator](https://github.com/nc1z/trade-stream-aggregator)
-- NodeJs live trade feed aggregator server producing BTC time and sales data from major exchanges like Binance, Bybit, BitMEX via a unified WebSocket API
+- [Learning Project] NodeJs live trade feed aggregator server producing BTC time and sales data from major exchanges like Binance, Bybit, BitMEX via a unified WebSocket API
 
 #### :dollar: [Settlements Enrichment Service](https://github.com/nc1z/settlements-enrichment-service)
-- Java Springboot REST Server that receives trade requests, enriches with SSI reference data, produces market settlement messages.
+- [Project Showcase] Java Springboot REST Server that receives trade requests, enriches with SSI reference data, produces market settlement messages.
 
 #### :credit_card: [Hono Backend template with Stripe Integration](https://github.com/nc1z/stripe-integration-basics)
-- Stripe integration, middlewares and error handling, tests etc.
+- [Learning Project] Stripe integration, middlewares and error handling, tests etc.
 
 #### :sparkles: [Random Username Generator](https://getrandomuser.vercel.app/)
-- NextJs web application deployed on Vercel
+- [For Fun] NextJs web application deployed on Vercel
 
 ---
 
