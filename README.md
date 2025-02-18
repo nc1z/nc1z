@@ -29,8 +29,8 @@ Hey there! I'm Neil, a Software Engineer based in Singapore. Welcome to my page.
 
 ### Personal Projects
 
-#### :earth_asia: Interactive world map
-- [Private, Built for public usage] React Simple Maps x Cloudflare Serverless x Supabase
+#### :earth_asia: Interactive map
+- [Private, Built for public usage] Serverless
 
 #### :dollar: AI Lifestyle Tracker application
 - [Private, Built for public usage] Cloudflare Serverless + Chatbots
