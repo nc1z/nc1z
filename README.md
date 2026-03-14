@@ -1,3 +1,5 @@
+<img width="1640" height="856" alt="Image" src="https://github.com/user-attachments/assets/d5b4ca4c-4a92-43aa-8282-da53006235f0" />
+
 ---
 title: Software Engineer
 description: AI champion pushing agentic-native workflows, spec-driven development. Exploring openclaw, multi-agent workflows, agent skills.
@@ -9,8 +11,6 @@ skills: [TypeScript, Node.js, Python, AWS, Terraform, Copilot CLI / Cursor / Cla
 focus: [agentic workflows, spec-driven development, openclaw, multi-agent, agent skills]
 contact: mailto:nc1zdev@gmail.com
 ---
-
-<img width="1640" height="856" alt="Image" src="https://github.com/user-attachments/assets/d5b4ca4c-4a92-43aa-8282-da53006235f0" />
 
 <br/> 
 <br/>
