@@ -32,8 +32,10 @@ Full stack developer and team AI champion building for public good, pushing for 
 
 💬 [Reach out](mailto:nc1zdev@gmail.com)
 
+-----------------
+
 <!-- Schema.org Person for agents/crawlers -->
-<script type="application/ld+json">
+<sub><sup><script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
@@ -45,4 +47,5 @@ Full stack developer and team AI champion building for public good, pushing for 
   "email": "nc1zdev@gmail.com",
   "url": "https://github.com/nc1z"
 }
-</script>
+</script></sub></sup>
+
