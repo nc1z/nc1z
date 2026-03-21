@@ -7,7 +7,7 @@ skills: [Copilot CLI / Cursor / Claude Code]
 contact: mailto:nc1zdev@gmail.com
 ---
 
-<img width="1640" height="856" alt="Image" src="https://github.com/user-attachments/assets/d5b4ca4c-4a92-43aa-8282-da53006235f0" />
+<img width="410" height="214" alt="Image" src="https://github.com/user-attachments/assets/d5b4ca4c-4a92-43aa-8282-da53006235f0" />
 
 <br/><br/>
 Hey, I'm Neil — Software Engineer in Singapore.
