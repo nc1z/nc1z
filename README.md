@@ -3,7 +3,7 @@ title: Software Engineer
 description: AI champion pushing agentic-native workflows & spec-driven development.
 name: Neil
 location: Singapore
-skills: [Copilot CLI / Cursor / Claude Code]
+skills: [Copilot CLI / Codex / Cursor / Claude Code]
 contact: mailto:nc1zdev@gmail.com
 ---
 
