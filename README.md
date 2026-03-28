@@ -1,6 +1,6 @@
 ---
 title: Software Engineer
-description: AI champion pushing agentic-native workflows & spec-driven development.
+description: Leading agentic-native workflows & spec-driven development.
 name: Neil
 location: Singapore
 skills: [Copilot CLI / Codex / Cursor / Claude Code]
