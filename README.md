@@ -7,12 +7,10 @@ skills: [Copilot CLI / Codex / Cursor / Claude Code]
 contact: mailto:nc1zdev@gmail.com
 ---
 
-<img width="410" height="214" alt="Image" src="https://github.com/user-attachments/assets/d5b4ca4c-4a92-43aa-8282-da53006235f0" />
-
 <br/><br/>
 Hey, I'm Neil — Software Engineer in Singapore.
 
-Full stack developer and team AI champion building for public good, pushing for agentic-native workflows, spec-driven development, and adoption. Exploring openclaw, multi-agent workflows/fleets, agent skills, and more.
+Full stack developer and team AI champion building for public good, pushing for agentic-native workflows, spec-driven development, and adoption. Exploring agentic workflows.
 
 **Stack:** TypeScript · Node.js · Python · AWS · Terraform
 
